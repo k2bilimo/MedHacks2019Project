@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{B03AF38B-FEFC-9445-516C-BB4189E91F1D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scoring.cs">
+    <Files>
+      <File FileName="Assets/FirstPersonPlayer/Scripts/PlayerMove.cs" Line="50" Column="10" />
+      <File FileName="Assets/FirstPersonPlayer/Scripts/PlayerLook.cs" Line="49" Column="10" />
+      <File FileName="Assets/Scoring.cs" Line="154" Column="32" />
+      <File FileName="Assets/GoogleVR/Scripts/GvrEditorEmulator.cs" Line="170" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MedHacks_VR_Dementia" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GoogleVR" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Controller" expanded="True">
+                    <Node name="Tooltips" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="Scoring.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MedHacks_VR_Dementia" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="59ace223-ae29-4517-a8ac-b49a06d8de65" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
